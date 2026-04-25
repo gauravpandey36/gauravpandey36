@@ -24,7 +24,7 @@ Stay tuned as this profile evolves and more projects are added.
 
 ## Get in touch
 
-- **LinkedIn** – add your LinkedIn URL here
-- **Email** – add your preferred contact email here
+- **LinkedIn** – add your LinkedIn URL here https://www.linkedin.com/in/gourav-pandey-445a0b7a/
+- **Email** – add your preferred contact 
 
 Feel free to explore my repositories, star projects you find useful, or open an issue/discussion if you'd like to collaborate. Thanks for stopping by!
