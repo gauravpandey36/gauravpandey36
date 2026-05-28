@@ -1,5 +1,7 @@
 # Hi, I'm Gaurav Pandey 👋
 
+> All public projects use synthetic data from GeneriCorp, a fictional pharmaceutical company built for research purposes.
+
 **Pharmaceutical & Biotech Researcher · AI/ML Enthusiast**
 
 I'm a researcher working at the intersection of the pharmaceutical and biotechnology industries. My passion lies in harnessing artificial intelligence, machine learning, and digital health technologies to accelerate drug discovery, streamline clinical development, and support regulatory compliance.
