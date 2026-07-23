@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav Pandey 👋
 
-> All public projects use synthetic data from GeneriCorp, a fictional pharmaceutical company built for research purposes.
+> All public projects use synthetic data for research purposes.
 
 **Pharmaceutical & Biotech Researcher · AI/ML Enthusiast**
 
